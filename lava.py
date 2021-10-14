@@ -369,6 +369,7 @@ A cada lavadora se le ha dado una puntuación, que resulta de haber medido las s
 - Capacidad
 - Velocidad de centrifugado
 - Consumo de energía
+- Tiempo de lavado
 - Consumo de agua
 - Ruido
 
