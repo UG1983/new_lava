@@ -366,12 +366,12 @@ Es muy sencillo, selecciona el tipo de carga (superior o frontal), el rango de c
 **¿Cómo se determina si una lavadora es mejor que otra?**
 
 A cada lavadora se le ha dado una puntuación, que resulta de haber medido las siguientes especificaciones:
-- Capacidad
-- Velocidad de centrifugado
-- Consumo de energía
-- Tiempo de lavado
-- Consumo de agua
-- Ruido
+- Capacidad (CC)
+- Velocidad de centrifugado (VC)
+- Consumo de energía (CE)
+- Tiempo de lavado (TL)
+- Consumo de agua (CA)
+- Ruido (RL)
 
 
 
